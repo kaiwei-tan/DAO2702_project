@@ -1,5 +1,5 @@
 # DAO2702 Project
-Project done for NUS module, <i>Descriptive Analytics with R</i>, in Fall 2018
+Project done for NUS module, <i>Programming for Business Analytics</i>, in Fall 2018
 <br> Done by: Kai Wei Tan, Anthony Lopez, Jocelyn Hiranyajinda, Lau Shinn Yi, Xiong Jun, Zhang Feimo
 
 Part of a data visualization and linear regression project on dating site marketing.
